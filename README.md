@@ -1,1 +1,1 @@
-Simples projeto com a introdução sobre o funcionamento de mensageria com Apache Kafka
+Projeto exemplo sobre como é o funcionamento de mensageria com Apache Kafka
